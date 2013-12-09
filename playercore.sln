@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "playercore", "playercore\playercore.csproj", "{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wellcome.Player", "Wellcome.Player\Wellcome.Player.csproj", "{52FD9BDD-0444-4C28-A608-3EE4038FC87D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Dev|Any CPU = Dev|Any CPU
+		PreLive|Any CPU = PreLive|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release1|Any CPU = Release1|Any CPU
+		Release2|Any CPU = Release2|Any CPU
+		Release3|Any CPU = Release3|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Dev|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Dev|Any CPU.Build.0 = Debug|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.PreLive|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.PreLive|Any CPU.Build.0 = Release|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Release1|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Release1|Any CPU.Build.0 = Release|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Release2|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Release2|Any CPU.Build.0 = Release|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Release3|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC5C7A4-8B85-4AFA-86A9-D81A800F0EA7}.Release3|Any CPU.Build.0 = Release|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.PreLive|Any CPU.ActiveCfg = PreLive|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.PreLive|Any CPU.Build.0 = PreLive|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Release|Any CPU.ActiveCfg = Release3|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Release|Any CPU.Build.0 = Release3|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Release1|Any CPU.ActiveCfg = Release1|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Release1|Any CPU.Build.0 = Release1|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Release2|Any CPU.ActiveCfg = Release2|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Release2|Any CPU.Build.0 = Release2|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Release3|Any CPU.ActiveCfg = Release3|Any CPU
+		{52FD9BDD-0444-4C28-A608-3EE4038FC87D}.Release3|Any CPU.Build.0 = Release3|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="Wellcome.Player.Assets.IAsset">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACAAAAAAAAAAABAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\IAsset.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Wellcome.Player.Assets.IAudio">
+    <Position X="12.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\IAudio.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Wellcome.Player.Assets.IDeepZoomImage">
+    <Position X="11.75" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\IDeepZoomImage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Wellcome.Player.Assets.IDimensionedAsset">
+    <Position X="10.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\IDimensionedAsset.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Wellcome.Player.Assets.IDocument">
+    <Position X="14.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\IDocument.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Wellcome.Player.Assets.ISeadragonDeepZoomImage">
+    <Position X="11.75" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ISeadragonDeepZoomImage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Wellcome.Player.Assets.IVideo">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\IVideo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
