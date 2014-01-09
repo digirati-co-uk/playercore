@@ -5,5 +5,6 @@
         string Name { get; set; }
         int? AssetSequence { get; set; }
         IStructure[] Structures { get; set; }
+        ISeeAlso SeeAlso { get; set; }
     }
 }

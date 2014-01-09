@@ -30,7 +30,8 @@
             {
                 AssetSequence = structure.AssetSequence,
                 Name = structure.Name,
-                Structures = structure.Structures
+                Structures = structure.Structures,
+                SeeAlso = structure.SeeAlso
             };
             if (coreStructure.Structures != null)
             {

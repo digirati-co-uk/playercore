@@ -8,5 +8,6 @@ namespace Wellcome.Player.Impl
         public string Name { get; set; }
         public int? AssetSequence { get; set; }
         public IStructure[] Structures { get; set; }
+        public ISeeAlso SeeAlso { get; set; }
     }
 }
